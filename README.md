@@ -20,12 +20,6 @@ Task Manager is designed for simple on the fly use to write a simple task list. 
 
 The application is simple, yet effective. The main goal of the application is to present a `TASK MANAGEMENT` solution so that tasks can be quick and effective. With the facility of single click to delete the task, the application also focuses on usability.
 
-## Find out more
-
-| **[Technical Docs][techdocs]**     | **[Setup Guide][setup]**     | **[Roadmap][roadmap]**           | **[Contributing][contributing]**           |
-|-------------------------------------|-------------------------------|-----------------------------------|---------------------------------------------|
-| [![i1][techdocs-image]][techdocs] | [![i2][setup-image]][setup] | [![i3][roadmap-image]][roadmap] | [![i4][contributing-image]][contributing] |
-
 
 ## Architecture
 
@@ -54,12 +48,3 @@ limitations under the License.
 
 [license-image]: http://img.shields.io/badge/license-Apache--2-blue.svg?style=flat
 [license]: https://www.mit.edu/~amini/LICENSE.md
-
-[techdocs-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/techdocs.png
-[setup-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/setup.png
-[roadmap-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/roadmap.png
-[contributing-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/contributing.png
-
-[techdocs]: https://github.com/mohit2530/Task-Manager/blob/main/README.md
-[setup]: https://github.com/mohit2530/Task-Manager/blob/main/README.md
-[roadmap]: https://github.com/mohit2530/Task-Manager
